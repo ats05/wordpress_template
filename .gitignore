@@ -1,0 +1,10 @@
+
+
+# IDE
+.idea/
+
+# Environment
+docker/.env
+
+# Local Data
+docker/mysql_data/
